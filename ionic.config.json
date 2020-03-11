@@ -1,0 +1,7 @@
+{
+  "name": "msnacks",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
